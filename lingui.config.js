@@ -2,7 +2,7 @@ module.exports = {
   locales: ["en", "ar"],
   catalogs: [
     {
-      path: "src/locales/{locale}/messages",
+      path: "src/locales/{locale}",
       include: ["src"],
     },
   ],
