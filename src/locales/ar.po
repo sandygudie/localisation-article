@@ -47,4 +47,3 @@ msgstr "تسجيل الدخول"
 #: src/App.jsx:28
 msgid "Sign Up"
 msgstr "تسجيل الدخول"
-
