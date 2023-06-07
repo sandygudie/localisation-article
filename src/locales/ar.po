@@ -14,37 +14,37 @@ msgstr ""
 "X-Crowdin-File-ID: 7\n"
 "Project-Id-Version: learning-localization\n"
 "Language-Team: Arabic\n"
-"PO-Revision-Date: 2023-06-06 22:40\n"
+"PO-Revision-Date: 2023-06-07 10:41\n"
 
 #: src/App.jsx:16
 msgid "About"
-msgstr ""
+msgstr "حول"
 
 #: src/App.jsx:19
 msgid "Blog"
-msgstr ""
+msgstr "المدونة"
 
 #: src/App.jsx:13
 msgid "Courses"
-msgstr ""
+msgstr "الدورات"
 
 #: src/App.jsx:10
 msgid "Home"
-msgstr ""
+msgstr "المنزل"
 
 #: src/App.jsx:34
 msgid "Learning with Open Innovation MOOCs"
-msgstr ""
+msgstr "التعلم بواسطة موكيات الإبداع المفتوح"
 
 #: src/App.jsx:37
 msgid "Localisation follows after Internationalization it focus on the details of the translation process, it involves ensuring that the translated language reflects the culture of the user in terms of content, page displayed , text direction without losing it's original meaning."
-msgstr ""
+msgstr "وتتبع عملية إضفاء الطابع المحلي بعد التدويل تركز على تفاصيل عملية الترجمة. وهو ينطوي على ضمان أن تعكس اللغة المترجمة ثقافة المستخدم من حيث المضمون، تم عرض الصفحة، واتجاه النص دون فقدان معناه الأصلي."
 
 #: src/App.jsx:25
 msgid "Log in"
-msgstr ""
+msgstr "تسجيل الدخول"
 
 #: src/App.jsx:28
 msgid "Sign Up"
-msgstr ""
+msgstr "تسجيل الدخول"
 
