@@ -1,10 +1,11 @@
 import "./App.css";
 import { Trans } from "@lingui/macro";
+import LanguageToggler from "./component/LanguageToggler";
 
 function App() {
   return (
     <>
-      <header className="flex items-center justify-around">
+      <header className="flex items-center justify-around relative">
         <div className="flex items-center gap-8 justify-center">
           <a className="hover:text-primary" href="/">
             <Trans> Home</Trans>
@@ -19,6 +20,7 @@ function App() {
             <Trans>Blog</Trans>
           </a>
         </div>
+        <LanguageToggler/>
         <div className="flex items-center gap-8 justify-center">
           <button className="py-2 px-6 bg-primary rounded-lg text-white font-bold">
             {" "}
@@ -47,7 +49,3 @@ function App() {
   );
 }
 export default App;
-
-// make the toggle smooth
-// explain plurals and other things like date, check the documentation
-// understand those ids and others

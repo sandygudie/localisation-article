@@ -1,3 +1,5 @@
+import { formatter } from "@lingui/format-po";
+
 module.exports = {
   locales: ["en", "ar"],
   catalogs: [
@@ -6,5 +8,8 @@ module.exports = {
       include: ["src"],
     },
   ],
+  format: formatter({
+    origins: false,
+     }),
   format: "po",
 };
